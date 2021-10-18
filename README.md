@@ -4,7 +4,7 @@
 
 ``` bash
 # clone the repo
-$ git clone '' my-project
+$ git clone 'https://github.com/akhilxyz/advanced-react-dashboard.git' my-project
 
 # go into app's directory
 $ cd my-project
