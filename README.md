@@ -57,7 +57,7 @@ $ npm run build
 Within the download you'll find the following directories and files, logically grouping common assets and providing both compiled and minified variations. You'll see something like this:
 
 ```
-CoreUI-React#v3.0.0
+Dir
 ├── public/          #static files
 │   └── index.html   #html template
 │
